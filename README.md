@@ -21,11 +21,7 @@ This project is a **general-purpose anomaly detection tool** using **unsupervise
 
 ## 🗂️ Folder Structure
 <pre>unsupervised-anomaly-detector/
-│
-├── data/ # Example datasets (CSV)
-├── Unsupervised_Detection.ipynb # Notebook: load, clean, model
-├── streamlit_app/
-│ └── app.py # Streamlit GUI
+├── streamlit_app.py
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation</pre>
 
